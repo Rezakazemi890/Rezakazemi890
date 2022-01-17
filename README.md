@@ -25,16 +25,15 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href="linkedin.com/in/reza-kazemi-2b528478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" /><b>linkedin.com/in/reza-kazemi-2b528478</b></a>
-<h3>Statistical Data :</h3>
+<a href="linkedin.com/in/reza-kazemi-2b528478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" /><strong>linkedin.com/in/reza-kazemi-2b528478</strong></a>
+<h2>Statistical Data :</h2>
 <div align="center">
 	<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezakazemi890&" alt="Rezakazemi890" /><img src="https://github-readme-stats.vercel.app/api?username=Rezakazemi890&show_icons=true&locale=en" alt="Rezakazemi890" /> </p>
 	<br>
 	<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezakazemi890&show_icons=true&locale=en&layout=compact" alt="Rezakazemi890" /></p>
 	<br>
-	<h3 align="left">Trophies :</h3>
+	<h2 align="left">Trophies :</h2>
 	<p>
 		<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rezakazemi890" alt="Rezakazemi890" /></a>
 	</p>
-</div> 
-[Rezakazemi890](https://github.com/Rezakazemi890)
+</div>
