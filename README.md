@@ -29,7 +29,7 @@
 <a href="linkedin.com/in/reza-kazemi-2b528478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" /><strong>linkedin.com/in/reza-kazemi-2b528478</strong></a>
 <h2>Statistical Data </h2>
 <div align="center">
-	<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezakazemi890&" alt="Rezakazemi890" /><img src="https://github-readme-stats.vercel.app/api?username=Rezakazemi890&show_icons=true&locale=en" alt="Rezakazemi890" /> </p>
+	<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezakazemi890&" alt="Rezakazemi890" /></p>
 	<br>
 	<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezakazemi890&show_icons=true&locale=en&layout=compact" alt="Rezakazemi890" /></p>
 	<br>
