@@ -5,14 +5,14 @@
 <p> 👀 I’m interested in C#, .net , Programming, Learning and thinking.
 	<br> 🌱 I’m currently CPO in hasintech and And I keep learning .net, backend Programing.
 	<br>
-	<p align="left"> I have more than 6 years experience in
+	<p align="left"> I have over 8 years experience in
 		<br> C # programming,
 		<br> .net programming,
 		<br> software design,
 		<br> analysis and development,
-		<br> as well as software project management
+		<br> and software project management,
 		<br> and product management.
-		<br> I love innovation and teamwork, I love learning, small projects are fun and practical. I am looking for impossible projects. </p>
+	 </p>
 </p>
 </h2>
 <a href=h ttps://github.com/Rezakazemi890?tab=repositories&q=&type=&language=csharp&sort=> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
