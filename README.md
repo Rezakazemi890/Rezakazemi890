@@ -2,16 +2,14 @@
 <br>
 <h2> About Me <img src="https://komarev.com/ghpvc/?username=Rezakazemi890&label=Profile%20views&color=0e75b6&style=flat"
     alt="Rezakazemi890" /></h2> <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<p> 👀 I’m interested in C#, .net , Programming, Learning and thinking.
-	<br> 🌱 I’m currently CPO in hasintech and And I keep learning .net, backend Programing.
+<p> 👀 I’m interested in C#, .Net, Development, Learning and thinking.
 	<br>
 	<p align="left"> I have over 8 years experience in
-		<br> C # programming,
-		<br> .net programming,
+		<br> C# Development,
+		<br> .Net Development,
+		<br> Backend Development,		
 		<br> software design,
-		<br> analysis and development,
-		<br> and software project management,
-		<br> and product management.
+		<br> analysis and development
 	 </p>
 </p>
 </h2>
