@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Reza Kazemi</h1>
 <br>
 <h2> About Me <img src="https://komarev.com/ghpvc/?username=Rezakazemi890&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Rezakazemi890" /></h2> <img width="45%" align="right" alt="Github" src="https://dotnet.microsoft.com/static/images/redesign/shared/languages.svg?v=vWU_Pl-GdtsBx3iyM0ZPUHadYRPKrqXMRt5hPegBO38" />
+    alt="Rezakazemi890" /></h2> <img width="35%" align="right" alt="Github" src="https://dotnet.microsoft.com/static/images/redesign/shared/languages.svg?v=vWU_Pl-GdtsBx3iyM0ZPUHadYRPKrqXMRt5hPegBO38" />
 <p> 👀 I’m interested in C#, .Net, Development, Learning and thinking.
 	<br>
 	<p align="left"> I have over 8 years experience in
