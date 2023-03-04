@@ -30,7 +30,7 @@
 	<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezakazemi890&" alt="Rezakazemi890" /></p>
 	<br>
 	<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezakazemi890&show_icons=true&locale=en&layout=compact" alt="Rezakazemi890" /></p>
-	<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rezakazemi890&show_icons=true&locale=en" alt="Rezakazemi890" /></p>
 	<h2 align="left">Trophies </h2>
 	<p>
 		<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rezakazemi890" alt="Rezakazemi890" /></a>
