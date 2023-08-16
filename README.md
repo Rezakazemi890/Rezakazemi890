@@ -2,7 +2,7 @@
 <br>
 <h2> About Me <img src="https://komarev.com/ghpvc/?username=Rezakazemi890&label=Profile%20views&color=0e75b6&style=flat"
     alt="Rezakazemi890" /></h2> <img width="35%" align="right" alt="Github" src="https://dotnet.microsoft.com/static/images/redesign/shared/languages.svg?v=vWU_Pl-GdtsBx3iyM0ZPUHadYRPKrqXMRt5hPegBO38" />
-<p> 👀 I’m interested in C#, .Net, Development, Learning and thinking.
+<p> 👀 I’m interested in C#, .Net, Development, Learning.
 	<br>
 	<p align="left"> I have over 8 years experience in
 		<br> C# Development,
@@ -33,8 +33,4 @@
 	<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezakazemi890&" alt="Rezakazemi890" /></p>
 	<br>
 	<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Rezakazemi890&show_icons=true&locale=en&layout=compact" alt="Rezakazemi890" /></p>
-	<h2 align="left">Trophies </h2>
-	<p>
-		<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rezakazemi890" alt="Rezakazemi890" /></a>
-	</p>
 </div>
