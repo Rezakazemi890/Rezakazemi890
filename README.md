@@ -6,31 +6,26 @@
 	<br>
 	<p align="left"> I have over 8 years experience in
 		<br> C# Development,
-		<br> .Net Development,
-		<br> Backend Development,		
+		<br> .Net Development,		
 		<br> software design,
-		<br> analysis and development
+		<br> software analysis and development
 	 </p>
 </p>
 </h2>
-<a href=h ttps://github.com/Rezakazemi890?tab=repositories&q=&type=&language=csharp&sort=> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href=h ttps://github.com/Rezakazemi890?tab=repositories&q=&type=&language=.net&sort=> <img width='32px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/300px-Microsoft_.NET_logo.svg.png'> </a>
-<a href=h ttps://github.com/Rezakazemi890?tab=repositories&q=&type=&language=kafka&sort=> <img width='32px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/128px-Apache_kafka.svg.png'> </a>
-<a href=h ttps://github.com/Rezakazemi890?tab=repositories&q=&type=&language=rabitmq&sort=> <img width='58px' src='https://www.rabbitmq.com/img/logo-rabbitmq.svg'> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /> </a>
-<a href=h ttps://github.com/Rezakazemi890?tab=repositories&q=&type=&language=elastic&sort=> <img width='58px' src='https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/6202d3378b1f312528798412/elastic-logo.svg'> </a>
-<a href=h ttps://github.com/Rezakazemi890?tab=repositories&q=&type=&language=postgre&sort=> <img width='32px' src='https://www.postgresql.org/media/img/about/press/elephant.png'> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
-<a href="https://redis.com/" target="_blank"> <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" alt="redis" width="40" height="40" /> </a>
-<a href=h ttps://github.com/Rezakazemi890?tab=repositories&q=&type=&language=sqlite&sort=> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-<a href="https://docker.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Docker_logo.svg/240px-Docker_logo.svg.png" alt="docker" width="48" height="40" /> </a>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 <p></p>
+
+<div align="left">
+ <div>
+
+  ![RezaKazemi's Stats](https://github-readme-stats.vercel.app/api?username=Rezakazemi890&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
+  
+  </div>
+<div>
+
+<p></p>
+<div align="left">
+ <div>
 <a href="linkedin.com/in/reza-kazemi-2b528478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Reza Kazemi" height="30" width="30" />
-<strong>linkedin.com/in/reza-kazemi-2b528478</strong></a>
-<h2>Statistical Data </h2>
-<div align="center">
-	<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezakazemi890&" alt="Rezakazemi890" /></p>
-	<br>
-	<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Rezakazemi890&show_icons=true&locale=en&layout=compact" alt="Rezakazemi890" /></p>
-</div>
+  </div>
+<div>
