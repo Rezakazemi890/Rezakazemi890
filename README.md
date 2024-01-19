@@ -18,7 +18,7 @@
 <div align="left">
  <div>
 
-  ![RezaKazemi's Stats](https://github-readme-stats.vercel.app/api?username=Rezakazemi890&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=false)
+  ![RezaKazemi's Stats](https://github-readme-stats.vercel.app/api?username=Rezakazemi890&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github)
   
   </div>
 <div>
