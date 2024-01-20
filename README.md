@@ -23,7 +23,7 @@
   </div>
 <div>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezakazemi890&theme=dark&hide_border=false"/></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezakazemi890&theme=dark&hide_border=false"/></p>
 
 <p></p>
 <div align="left">
