@@ -6,9 +6,9 @@
 	<br>
 	<p align="left"> I have over 9 years experience in
 		<br> C# Development,
-		<br> .Net Development,		
-		<br> software design,
-		<br> software analysis and development
+		<br> .NET Development,		
+		<br> Software Design,
+		<br> Software Analysis And Development
 	 </p>
 </p>
 </h2>
